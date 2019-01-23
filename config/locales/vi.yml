@@ -7,7 +7,7 @@ vi:
       content_html: "Đây là trang chủ cho ứng dụng mẫu %{link1}"
       ror_ttr_sa: "Ruby on Rails Sample App"
     about:
-      about: "Về chúng tôi"
+      about: "Giới Thiệu"
       content_html: "%{link1} là %{link2} và %{link3} để dạy phát triển web với %{link4}. Đây là ứng dụng mẫu cho hướng dẫn."
       book: "cuốn sách"
       screencast_series: "Màn hình hướng dẫn"
@@ -23,3 +23,4 @@ vi:
       content_html: "Liên hệ với Hướng dẫn về Ruby on Rails về ứng dụng mẫu tại %{link1}."
       contact_page: "trang liên lạc"
       ror_ttr_sa: "Ruby on Rails Sample App"
+  ror_ttr_sa: "Ứng dụng mẫu Ruby on Rails"
