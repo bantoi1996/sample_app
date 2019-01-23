@@ -5,11 +5,13 @@ en:
       sample_app: "Sample_app"
       content_html: "This is the home page for the %{link1} sample application"
       ror_ttr_sa: "Ruby on Rails Sample App"
+      welcome_sample: "Welcome to the Sample App"
+      sign_up: "Sign up now!"
     about:
       about: "About"
       book: "book"
-      screencast_series: "screencast_series"
       content_html: "The %{link1} is a %{link2} and %{link3} to teach web development with %{link4}.This is the sample application for the tutorial."
+      screencast_series: "screencast_series"
       ror_ttr_sa: "Ruby on Rails Sample App"
     help:
       help: "Help"
@@ -23,3 +25,20 @@ en:
       contact_page: "contact page"
       ror_ttr_sa: "Ruby on Rails Sample App"
   ror_ttr_sa: "Ruby on Rails Sample App"
+  users:
+    new:
+      sign_up_: "Sign up"
+      info_signup: "This will be a signup page for new users."
+  tutorial: "Ruby on Rails Tutorial"
+  ruby: "Ruby on Rails"
+  ror_sampleapp: "Ruby on Rails Tutorial Sample App"
+  english: "English"
+  vietnam: "Vietnamese"
+  by: "by"
+  new: "New"
+  log_in: Log in
+  home: "Home"
+  contact: "Contact"
+  about: "About"
+  help: "Help"
+  sample_app: "Sample App"
