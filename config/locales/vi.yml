@@ -27,7 +27,7 @@ vi:
   ror_ttr_sa: "Ứng dụng mẫu Ruby on Rails"
   users:
     new:
-      sign_up_: "Đăng ký"
+      title: "Đăng ký"
       info_signup: "Đây sẽ là trang đăng ký cho người dùng mới"
   tutorial: "Hướng dẫn Ruby on Rails"
   ruby: "Ruby on Rails"

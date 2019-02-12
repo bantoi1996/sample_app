@@ -27,7 +27,7 @@ en:
   ror_ttr_sa: "Ruby on Rails Sample App"
   users:
     new:
-      sign_up_: "Sign up"
+      title: "Sign up"
       info_signup: "This will be a signup page for new users."
   tutorial: "Ruby on Rails Tutorial"
   ruby: "Ruby on Rails"
